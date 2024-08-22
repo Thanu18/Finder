@@ -22,5 +22,5 @@ It uses the Gemini Pro Vision model from Google’s Generative AI API.
 
 ## Video Demo
 
-Check out our demo video here: [Watch the demo]([https://www.youtube.com/watch?v=6dulsyNb8Ds&t=3s])
+Check out our demo video here: [Watch the demo][https://www.youtube.com/watch?v=6dulsyNb8Ds&t=3s]
 
